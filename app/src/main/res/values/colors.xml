@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Kuning">#CFFF00</color>
+    <color name="purple_700">#FF6200EE</color>
+    <color name="Biru">#4B00F3</color>
+    <color name="Tosca">#00FFE6</color>
+    <color name="Hijau">#00F421</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
